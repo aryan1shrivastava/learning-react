@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  //let counter = 5;
+  //let count = 5;
 
   let [counter, setCounter] = useState(5);
 
